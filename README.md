@@ -2,8 +2,11 @@
 
 ### 👨‍🎓 I'm **Chandrabhushan Kumar** 👨‍🎓
 
+<a href="https://www.linkedin.com/in/mastermindbhushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@MasterMindBhushan)
 [![Twitter](https://img.shields.io/twitter/follow/bhushanstm2222?style=social)](https://twitter.com/bhushanstm2222/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/c22b22/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@mastervlog22)
+
 
 ## 🙋 About Me 🙋
 🔭 2 Years+ Experienced Information Security Analyst.  
