@@ -1,3 +1,5 @@
+![Funny GIF](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+
 # 👨🏻‍💻 Hello Hacker! Thank you for visiting my GitHub profile 🇮🇳 🚩
 
 ### 👨‍🎓 I'm **Chandrabhushan Kumar** 👨‍🎓
