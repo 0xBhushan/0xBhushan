@@ -31,15 +31,15 @@
 🎭 Desktop Application Pentesting 🖥️  
 🎭 Perform Firewall <span style="color:yellow">(Internal & External)</span> Penetration Testing </span> <img src="https://icon2.cleanpng.com/20180519/ikr/kisspng-firewall-computer-icons-computer-network-clip-art-5b007791dd1517.0304465015267572659056.jpg" alt="Your Image" width="32" height="24">     
 ******************
-# 🎓 **Certificates List** 🎓   
+## 🎓 **Certificates List** 🎓   
 
-## **Issued by Ec-Council**
+### **Issued by Ec-Council**
 - 📜 *CEH Master*
 - 📜 *CEH Practical* 
 - 📜 *CEH_v11 ANSI*
 - 📜 *Practical Cloud Computing*
 
-## **Issued by TCM Security**
+### **Issued by TCM Security**
 - 📜 *Mobile Application Penetration Testing*
 - 📜 *Practical API Hacking*
 - 📜 *Practical Bug-Bounty*
@@ -50,7 +50,7 @@
 - 📜 *Practical Malware Analysis* 
 - 📜 *Practical Ethical Hacking*
 
-## **Issued by TryHackme**
+### **Issued by TryHackme**
 - 📜 *Red Teaming*
 - 📜 *CompTIA Pentest+*
 - 📜 *Jr Penetration Tester*
