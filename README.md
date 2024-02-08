@@ -30,7 +30,36 @@
 🎭 Thick Client Pentesting 💻   
 🎭 Desktop Application Pentesting 🖥️  
 🎭 Perform Firewall <span style="color:yellow">(Internal & External)</span> Penetration Testing </span> <img src="https://icon2.cleanpng.com/20180519/ikr/kisspng-firewall-computer-icons-computer-network-clip-art-5b007791dd1517.0304465015267572659056.jpg" alt="Your Image" width="32" height="24">     
+******************
+# 🎓 **Certificates List** 🎓   
 
+## **Issued by Ec-Council**
+- 📜 *CEH Master*
+- 📜 *CEH Practical* 
+- 📜 *CEH_v11 ANSI*
+- 📜 *Practical Cloud Computing*
+
+## **Issued by TCM Security**
+- 📜 *Mobile Application Penetration Testing*
+- 📜 *Practical API Hacking*
+- 📜 *Practical Bug-Bounty*
+- 📜 *OSINT Fundamental*
+- 📜 *Windows Privilege Escalation*
+- 📜 *Linux Privilege Escalation*
+- 📜 *Practical Windows Forensics*
+- 📜 *Practical Malware Analysis* 
+- 📜 *Practical Ethical Hacking*
+
+## **Issued by TryHackme**
+- 📜 *Red Teaming*
+- 📜 *CompTIA Pentest+*
+- 📜 *Jr Penetration Tester*
+- 📜 *Pre Security*
+- 📜 *Offensive Pentesting*
+- 📜 *Pre Security*
+- 📜 *Web Fundamental*
+- 📜 *Introduction to Cybersecurity*
+****************
 
 <h2 align="left"> 🥇<b> Programming Languages </b>🥇</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>  
