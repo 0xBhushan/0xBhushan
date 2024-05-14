@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Hello Hacker! Thank you for visiting my GitHub profile 🇮🇳 🚩
+# 👨🏻‍💻 Hello! Thank you for visiting my GitHub profile 🇮🇳 🚩
 
 ### 👨‍🎓 I'm **Chandrabhushan Kumar** 👨‍🎓
 
