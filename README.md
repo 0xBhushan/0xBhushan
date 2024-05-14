@@ -59,35 +59,7 @@
 - 📜 Pre Security
 - 📜 Web Fundamental
 - 📜 Introduction to Cybersecurity
-
-## 🎓 **Certificates List** 🎓   
-
-### **Issued by Ec-Council**
-- 📜 *CEH Master*
-- 📜 *CEH Practical* 
-- 📜 *CEH_v11 ANSI*
-- 📜 *Practical Cloud Computing*
-
-### **Issued by TCM Security**
-- 📜 *Mobile Application Penetration Testing*
-- 📜 *Practical API Hacking*
-- 📜 *Practical Bug-Bounty*
-- 📜 *OSINT Fundamental*
-- 📜 *Windows Privilege Escalation*
-- 📜 *Linux Privilege Escalation*
-- 📜 *Practical Windows Forensics*
-- 📜 *Practical Malware Analysis* 
-- 📜 *Practical Ethical Hacking*
-
-### **Issued by TryHackme**
-- 📜 *Red Teaming*
-- 📜 *CompTIA Pentest+*
-- 📜 *Jr Penetration Tester*
-- 📜 *Pre Security*
-- 📜 *Offensive Pentesting*
-- 📜 *Pre Security*
-- 📜 *Web Fundamental*
-- 📜 *Introduction to Cybersecurity*
+  
 ****************
 
 <h2 align="left"> 🥇<b> Programming Languages </b>🥇</h2>
@@ -104,7 +76,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastermindbhushan&" alt="mastermindbhushan" /></p>
 
 
-## Thank yoi!
+## Thank you!
 
 
 
