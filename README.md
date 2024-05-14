@@ -9,7 +9,7 @@
 
 
 ## 🙋 About Me 🙋
-🔭 2 Years+ Experienced Information Security Analyst.  
+🔭 2 Years+ Experienced Senior Information Security Analyst.  
 🎓 Master's in Certified Ethical Hacking by CE-Council.  
 🌱 Preparing for CRTP/OSCP.   
 👯 Collaborate on Open Source Projects.      
